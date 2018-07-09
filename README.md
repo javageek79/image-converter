@@ -1,5 +1,5 @@
 # image-converter
-run
-$ gradle -PmainClass=ImageConverter execute
-or
+## run with gradle
+$ gradle -PmainClass=ImageConverter execute\
+or\
 $ ./gradlew -PmainClass=ImageConverter execute
